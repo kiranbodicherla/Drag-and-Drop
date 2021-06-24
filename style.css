@@ -1,0 +1,7 @@
+#grid-container{
+    display: flex;
+    margin-top: 5%;
+    flex-direction:initial;
+    float:right;
+
+}
